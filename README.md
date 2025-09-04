@@ -75,7 +75,7 @@
 ```bash
 ● elias.service - Backend Developer Service
    Loaded: loaded (/etc/systemd/system/elias.service; enabled)
-   Active: active (running) since 1999-MM-DD
+   Active: active (running) since 2002
    Main PID: 31337 (coding_daemon)
    Status: "Optimizing systems and brewing coffee..."
    
